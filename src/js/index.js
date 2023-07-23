@@ -60,7 +60,7 @@ if (counter5 > 9){
     document.querySelector("#app"));
 
    
-}, 100);
+}, 1000);
 
 
 
